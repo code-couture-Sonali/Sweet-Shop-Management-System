@@ -1,0 +1,1 @@
+function App(){return(<div>Sweet Shop</div>)}export default App;
